@@ -1,4 +1,4 @@
-# Credit-card-Fraud-Detection
+# Credit-card-Default-Prediction
 
 <details>
   <summary>Table of Contents</summary>
